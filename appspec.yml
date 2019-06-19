@@ -4,7 +4,7 @@ os: linux
 # May have multiple source and destination specifications
 files:
   - source: /
-    destination: /var/www/html
+    destination: /usr/share/nginx/html
 # Permissions
 # permissions:
 #  - object:
